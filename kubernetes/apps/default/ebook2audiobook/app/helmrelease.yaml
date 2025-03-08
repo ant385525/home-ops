@@ -45,7 +45,7 @@ spec:
           *app :
             image:
               repository: docker.io/athomasson2/ebook2audiobook
-              tag: 25.2.18@sha256:95c48e38f4287400b91b117dab9c78399a1f194725e93704361fd9a6d1ff513c
+              tag: 25.2.18@sha256:3a7af8c6da8dba7efe44603d29625768b5d5f094a1f94d1a3b49b7e7b7173a3e
             env:
               MPLCONFIGDIR: /home/user/app/models/matplotlib
             securityContext:
