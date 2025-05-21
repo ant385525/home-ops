@@ -39,7 +39,7 @@ spec:
           *app :
             image:
               repository: ghcr.io/klutchell/dnscrypt-proxy
-              tag: 2.1.8@sha256:68b62ba30b6cf95861aef45878428622e453a4e91de76abfe040381be4049f53
+              tag: 2.1.11@sha256:25c3b516ef12db7af6d22f2496750c79dbebb57e9f1c2fce4bd667e5b08d625f
             resources:
               requests:
                 cpu: 10m
